@@ -1,1 +1,17 @@
+# Problem
+# Given: Two positive integers a and b, each less than 1000.
+# Return: The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths a and b.
 
+# Solution
+# Using Pythagorean Theorem (a2 + b2 = c2) to solve this problem 
+
+# Sample dataset have a=3 and b=5 with an output of 34
+
+# Declare variables
+a = 3
+b = 5
+
+# Writing the code
+c2 = 3**2 + 5**2
+
+print(c2)
