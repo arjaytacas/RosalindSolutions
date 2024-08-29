@@ -1,1 +1,1 @@
-Solutions for problems I am solving in Rosalind, a website created for people who wanted to learn and practice bioinformatics.
+Solutions for problems I am solving in Rosalind, a website created for people who wanted to learn and practice bioinformatics. You can find my Rosalind account here > https://rosalind.info/users/ArjayCT/
