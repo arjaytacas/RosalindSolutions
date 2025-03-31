@@ -14,7 +14,7 @@
 # 20 12 17 21
 
 Dataset = 'AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC'
-DNAcount = {'A':0,'C':0,'G':0,"T":0}
+DNAcount = {'A':0,'C':0,'G':0,"T":0} #create a dictionary that have the nucleotides and the number 0 to start counting
 
 # loop every nucleotide and add it to the dictionary
 for nuc in Dataset:
