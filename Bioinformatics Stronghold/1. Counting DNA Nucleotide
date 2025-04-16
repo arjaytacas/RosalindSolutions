@@ -17,9 +17,9 @@ Dataset = 'AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAG
 DNAcount = {'A':0,'C':0,'G':0,"T":0} #create a dictionary that have the nucleotides and the number 0 to start counting
 
 # loop every nucleotide and add it to the dictionary
-for nuc in Dataset:
-    if nuc in DNAcount:
-        DNAcount[nuc] += 1
+for n in Dataset:
+    if n in DNAcount:
+        DNAcount[n] += 1
 
 # since we only want the values we only print values, end = " " is added so that the print wont go to a new line per value
 for key, value in DNAcount.items():
