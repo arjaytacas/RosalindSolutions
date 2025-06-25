@@ -8,10 +8,10 @@
 # Sample dataset have a=3 and b=5 with an output of 34
 
 # Declare variables
-a = 3
-b = 5
+a = 973
+b = 862
 
 # Writing the code
-c2 = 3**2 + 5**2
+c2 = a**2 + b**2
 
 print(c2)
